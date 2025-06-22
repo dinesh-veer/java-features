@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.code.java8.comprator;
+package com.code.java.comprator;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -12,7 +12,7 @@ import java.util.List;
  * @author dineshveer
  *
  */
-public class Java8Comprator {
+public class JavaComprator {
 
 	public static void main(String[] args) {
 

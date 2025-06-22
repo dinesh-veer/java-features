@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.code.java8.comprator;
+package com.code.java.comprator;
 
 /**
  * @author dineshveer

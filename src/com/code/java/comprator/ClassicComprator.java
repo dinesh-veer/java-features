@@ -1,4 +1,4 @@
-package com.code.java8.comprator;
+package com.code.java.comprator;
 
 import java.util.ArrayList;
 import java.util.Collections;
