@@ -1,1 +1,1 @@
-# java-8-features
+# java-features
